@@ -1,9 +1,7 @@
-# Assignment Description
+# Risky Bizness Trivia Game
 
-written by 
+written by LD '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Risky-Bizness-Day-LD)](https://repl.it/github/athenian-ct-projects/Risky-Bizness-Day-LD)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* A trivia game for Risky Bizness Day
